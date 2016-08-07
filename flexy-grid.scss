@@ -42,6 +42,9 @@ $print:              false !default;
 //  If you want to be able to use the grid to hide elements
 $hide:               false !default;
 
+//  If you want to be able to push items
+$push:               false !default;
+
 
 //  Define your breakpoints. The first value is the prefix that shall be used for
 //  your classes (e.g. `.palm--one-half`), the second value is the media query
